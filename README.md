@@ -5,7 +5,7 @@ Race Track Creation For Aicore
 
 
 ## Dependencies
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 - [oxmysql](https://github.com/CommunityOx/oxmysql)
 - [ox_lib](https://github.com/CommunityOx/ox_lib)
 > Rebranded from [Qbox-project/qbx_lapraces](https://github.com/Qbox-project/qbx_lapraces) under GPL-3.0. Original work © QBox Project contributors.
